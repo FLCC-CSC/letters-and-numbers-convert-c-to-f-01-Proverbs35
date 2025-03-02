@@ -13,11 +13,11 @@
     
 ########## ENTER YER CODE BELOW THIS LINE ##########
 
-C = int(input('Enter a temperature in Celsius: '))
+C = float(input('Enter a temperature in Celsius: '))
 
 F = (C * 9/5) + 32
 
-print(f' (C) degrees Celsius is (F) degrees Fahrenheit.')
+print('(C) degrees Celsius is (F) degrees Fahrenheit. ')
 
 ########### END YER CODE ABOVE THIS LINE ###########
 
